@@ -1,2 +1,5 @@
-_site
-.sass-cache
+Gemfile.lock
+_site/
+_posts/
+category/
+*~
