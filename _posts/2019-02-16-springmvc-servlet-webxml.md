@@ -25,10 +25,4 @@ See advantages of specifying parameter values in web.xml for reasons you would w
 
 所以可见，dispatcherServlet不仅仅是简化servlet开发，提供"request/response",至少还有初始化spring应用配置的功能
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+
