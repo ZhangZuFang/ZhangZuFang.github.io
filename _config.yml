@@ -1,12 +1,12 @@
-title: John Smith
+title: ZUI
 description: My Personal Blog
-author: John Smith
+author: 
 logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/codeasashu
-about: Freelance developer
+about: Java Developer
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: ""
+url: ""
 
 allowsearch: true
 
