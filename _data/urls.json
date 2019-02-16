@@ -14,10 +14,5 @@
     "text": "Projects",
     "url": "/projects",
     "icon": "fa-desktop"
-  },
-  {
-    "text": "Github",
-    "url": "https://github.com/ZhangZuFang",
-    "icon": "fa-github"
   }
 ]

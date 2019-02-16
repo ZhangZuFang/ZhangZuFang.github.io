@@ -1,8 +1,8 @@
 title: zui
 description: My Personal Blog
 author: zui
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
+logo: /static/img/avatar.png
+github: https://github.com/ZhangZuFang
 about: Java Developer
 
 baseurl: ""
